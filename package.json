@@ -1,0 +1,5 @@
+{
+  "name":"odisseia-estelar-multiplayer", "version":"0.9.0", "private":true,
+  "type":"module", "scripts":{"start":"node server.js","test":"node --test"},
+  "engines":{"node":">=20"}, "dependencies":{"ws":"^8.18.0"}
+}
